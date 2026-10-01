@@ -1,0 +1,7 @@
+streamlit>=1.35
+streamlit-folium>=0.20
+folium>=0.16
+pandas>=2.0
+requests>=2.31
+fastapi>=0.110
+uvicorn>=0.29
